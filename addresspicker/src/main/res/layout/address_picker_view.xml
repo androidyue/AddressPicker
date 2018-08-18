@@ -34,7 +34,7 @@
             android:layout_height="wrap_content"
             android:background="?attr/selectableItemBackgroundBorderless"
             android:padding="13dp"
-            android:text="@string/sure"
+            android:text="@string/confirm_text"
             android:textSize="17sp" />
     </LinearLayout>
 

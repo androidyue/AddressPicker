@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AddressPicker</string>
+    <string name="confirm_text">OK</string>
 </resources>
