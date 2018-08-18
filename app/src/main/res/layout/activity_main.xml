@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <droidyue.com.addresspicker.AddressPickerView
+        android:id="@+id/address_picker_view"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        />
+        <!--app:item_unselected_color="#CCE8CF"
+        app:item_selected_color="#FF0000"
+        app:confirm_button_not_ready_text_color="#00FF00"
+        app:confirm_button_ready_text_color="#0000FF"
+        app:tab_item_province_text="Province"
+        app:tab_item_city_text="City"
+        app:tab_item_district_text="District"-->
+
+</android.support.constraint.ConstraintLayout>

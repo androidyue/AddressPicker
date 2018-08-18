@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="item_unselected_color" format="color"/>
+    <attr name="item_selected_color" format="color"/>
+    <attr name="confirm_button_ready_text_color" format="color"/>
+    <attr name="confirm_button_not_ready_text_color" format="color"/>
+    <attr name="tab_item_province_text" format="string"/>
+    <attr name="tab_item_city_text" format="string"/>
+    <attr name="tab_item_district_text" format="string"/>
+    <declare-styleable name="AddressPickerView">
+        <attr name="item_selected_color"/>
+        <attr name="item_unselected_color"/>
+        <attr name="confirm_button_ready_text_color"/>
+        <attr name="confirm_button_not_ready_text_color"/>
+        <attr name="tab_item_province_text"/>
+        <attr name="tab_item_city_text"/>
+        <attr name="tab_item_district_text"/>
+    </declare-styleable>
+</resources>
